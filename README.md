@@ -36,6 +36,15 @@ How to change the above project into ionic project. Small configuration required
 *You must have installed your Cordova CLI, if not, refer to Cordova Getting Started and Documentation on how to achieve that.
 *You have already created your Angular version and above project. This writing will be based on Angular CLI, so if you haven’t installed it, please visit Angular Documentation
 
+## Getting Started
+
+* [Download the installer](https://nodejs.org/) for Node.js 8 or greater.
+* Install the ionic CLI globally: `npm install -g ionic`
+* Clone this repository: `git clone https://github.com/VBPrabhu/AngulartoIonic`.
+* Run `npm install` from the project root.
+* Run `ionic serve` in a terminal from the project root.
+
+
 # Do this conversion in your own effort with below steps
 
  ---------------------# START #----------------------------
@@ -88,12 +97,57 @@ Move main.ts file from outside app folder to inside app folder in Ionic project
 
 ![tsconfig](https://user-images.githubusercontent.com/26504978/40999999-e2bfa6ca-690c-11e8-9507-2d2d157d29bf.png)
 
+# Now start to build ionic project
+
+## Getting started
+
+**Warning**
+
+> Verify that you are running at least node 8.9.x and npm 5.x.x by running node -v and npm -v in a terminal/console window. Older versions produce errors, but newer versions are fine.
+
+1. Go to project folder and install dependencies.
+ ```bash
+ npm install
+ ```
+
+2. Launch development server:
+ ```bash
+ npm start
+ ```
+
+**Note**
+
+> You don't need to build the library because it's published in npm and added as dependency of the project.
+
+## Deploying
+
+* PWA - Un-comment [this](https://github.com/VBPrabhu/AngulartoIonic/ionic/src/index.html), run `npm run ionic:build --prod` and then push the `www` folder to your favorite hosting service
+* Android - Run `ionic cordova run android --prod`
+  - If you are deploying to Android 4.4 or below we recommend adding crosswalk: `cordova plugin add cordova-plugin-crosswalk-webview`
+* iOS - Run `ionic cordova run ios --prod`
+* ionic development build `ionic serve`
+
+## Usage
+
+Tasks                    | Description
+-------------------------|---------------------------------------------------------------------------------------
+npm i                    | Install dependencies
+npm start                | Start the app in development mode
+npm run test             | Run unit tests with karma and jasmine
+npm run test:library     | Run unit tests for the library
+npm run e2e              | Run end to end tests with protractor
+npm run build            | Build the app for production
+npm run build:library    | Build the library
+npm run lint             | Run the linter (tslint)
+npm run lint:library     | Run the linter for the library
+npm run ci               | Execute linter and tests
+npm run deploy           | Build the app and deploy dist folder to Github pages (angular-cli-ghpages) (fork to do this and remove CNAME file)
+npm run sme              | Build and run source map explorer, really cool :)
+npm run release          | Create a new release using standard-version
+npm run docker           | Build the docker image and run the container
+
+
 # Successfully Migrated from Angular project to Ionic project
 
 ![45091936-happy-smiley-emoticon-face](https://user-images.githubusercontent.com/26504978/40999913-a4b3cc3a-690c-11e8-9970-38a557101537.jpg)
-
-
-
-
-
 
