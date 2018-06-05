@@ -54,7 +54,11 @@ How to change the above project into ionic project. Small configuration required
   
 # Step 3 - Now Copy Folder from Angular Project
 
- Merge your Angular project with the Ionic project created by copying every folders and files, except your package.json, appcomponent.ts, appmodule.ts file  in your Angular root directory to the Ionic project root directory.
+    ## Copy Steps
+    Merge your Angular project with the Ionic project created by copying every folders and files
 
+    * Dont copy package.json from Angular Project
+    * Dont copy app.component.ts
+    * Dont copy app.module.ts
 
 
