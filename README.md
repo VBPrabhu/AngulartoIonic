@@ -26,7 +26,7 @@ This is a very simple "Hello World" project to help get you started.to simplify 
 
 # Now Challenge Starts
 
-How to change the above project into ionic project. Please small configuration to convert Angular project to Ionic Project.
+How to change the above project into ionic project. Small configuration required to convert Angular project to Ionic Project.
 ![1_awpxaxq_upheqig-inqifw](https://user-images.githubusercontent.com/26504978/40997582-81de69ba-6905-11e8-89f6-06b8202596b0.jpeg)
 
 # Please follow the below steps to convert Angular project to Ionic Project
