@@ -10,7 +10,7 @@ Here's what is in the project:
 
 This is a very simple "Hello World" project to help get you started.to simplify the process of writing Angular code. The code snippets make it easy to build Angular components, services, pipes, directives and more.
 
-## Running the Application
+## Run the Angular Application
 
 1. Install the Angular CLI
 
@@ -20,10 +20,16 @@ This is a very simple "Hello World" project to help get you started.to simplify 
 
 1. Run `ng serve -o`
 
-# Now Challenge Starts
-![1_awpxaxq_upheqig-inqifw](https://user-images.githubusercontent.com/26504978/40997582-81de69ba-6905-11e8-89f6-06b8202596b0.jpeg)
-
-
-
+# Angular <--> Ionic project implementation structure
 
 <img width="1440" alt="screen shot 2018-06-05 at 21 01 56" src="https://user-images.githubusercontent.com/26504978/40997331-89e1306c-6904-11e8-87fa-acf2a8c37525.png">
+
+# Now Challenge Starts
+
+How to change the above project into ionic project. Please small configuration to convert Angular project to Ionic Project.
+![1_awpxaxq_upheqig-inqifw](https://user-images.githubusercontent.com/26504978/40997582-81de69ba-6905-11e8-89f6-06b8202596b0.jpeg)
+
+# Please follow the below steps to convert Angular project to Ionic Project
+
+
+
