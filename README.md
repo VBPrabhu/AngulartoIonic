@@ -1,5 +1,6 @@
-# Angular and TypeScript Hello World Project
+# Start create Angular Basic Project
 
+clone git repository and check the angular code and angular converted code
 
 Here's what is in the project:
 
