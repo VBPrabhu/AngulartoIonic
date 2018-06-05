@@ -20,7 +20,7 @@ This is a very simple "Hello World" project to help get you started.to simplify 
 
 1. Run `ng serve -o`
 
-# Angular <--> Ionic project implementation structure
+# Angular <--> Ionic project Migration
 
 <img width="1440" alt="screen shot 2018-06-05 at 21 01 56" src="https://user-images.githubusercontent.com/26504978/40997331-89e1306c-6904-11e8-87fa-acf2a8c37525.png">
 
@@ -30,6 +30,21 @@ How to change the above project into ionic project. Small configuration required
 ![1_awpxaxq_upheqig-inqifw](https://user-images.githubusercontent.com/26504978/40997582-81de69ba-6905-11e8-89f6-06b8202596b0.jpeg)
 
 # Please follow the below steps to convert Angular project to Ionic Project
+
+#REQUIREMENTS
+
+*You must have installed your Cordova CLI, if not, refer to Cordova Getting Started and Documentation on how to achieve that.
+*You have already created your Angular version and above project. This writing will be based on Angular CLI, so if you haven’t installed it, please visit Angular Documentation
+
+# Step 1 - Create a new Ionic/Cordova Project, using the Ionic Command below:
+
+  ionic start ionicexample blank --v2
+
+# Step 2 - Add your Cordova Building Platform ( Android , iOS ):
+
+  ionic platform add android ios
+  
+# Step 3 - Add your Cordova Building Platform ( Android , iOS ):
 
 
 
