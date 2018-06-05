@@ -42,11 +42,15 @@ How to change the above project into ionic project. Small configuration required
  
 # Step 1 - Create a new Ionic/Cordova Project, using the Ionic Command below:
 
-  ionic start ionic blank --v2
+ ```bash
+    $  ionic start ionic blank --v2
+ ```
 
 # Step 2 - Add your Cordova Building Platform ( Android , iOS ):
 
-  ionic platform add android ios
+```bash
+    $    ionic platform add android ios
+ ```
   
 # Step 3 - Add your Cordova Building Platform ( Android , iOS ):
 
