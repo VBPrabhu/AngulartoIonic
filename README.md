@@ -86,7 +86,7 @@ Move main.ts file from outside app folder to inside app folder in Ionic project
 
 # Step 7 - Check and Confirm project name in tsconfig.json 
 
-*****Successfully Migrated from Angular project to Ionic project
+# Successfully Migrated from Angular project to Ionic project
 
 ![45091936-happy-smiley-emoticon-face](https://user-images.githubusercontent.com/26504978/40999913-a4b3cc3a-690c-11e8-9970-38a557101537.jpg)
 
