@@ -66,4 +66,11 @@ Carefully open the package.json file in the both directories and carefully merge
 
 ![packagejson copy](https://user-images.githubusercontent.com/26504978/40999260-9eafaacc-690a-11e8-94ba-88fa36484f13.png)
 
+# Step 5 - Migrate AppModule.ts file from Angular to Ionic
+
+Carefully open the app.module.ts file in the both directories and carefully merge the two files into one. The resulting app.module.ts should look like below
+
+**Angular app.odule.ts file**
+
+> 
 
