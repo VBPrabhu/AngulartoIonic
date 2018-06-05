@@ -52,7 +52,11 @@ How to change the above project into ionic project. Small configuration required
     $ ionic platform add android ios
  ```
   
-# Step 3 - Add your Cordova Building Platform ( Android , iOS ):
+# Step 3 - Now Copy Folder from Angular Project
+
+Warning
+
+Verify that you are running at least node 8.9.x and npm 5.x.x by running node -v and npm -v in a terminal/console window. Older versions produce errors, but newer versions are fine.
 
 
 
