@@ -36,8 +36,10 @@ How to change the above project into ionic project. Small configuration required
 *You must have installed your Cordova CLI, if not, refer to Cordova Getting Started and Documentation on how to achieve that.
 *You have already created your Angular version and above project. This writing will be based on Angular CLI, so if you haven’t installed it, please visit Angular Documentation
 
-*Do this conversion in your own effort with below steps
+# Do this conversion in your own effort with below steps
 
+ ---------------------# START #----------------------------
+ 
 # Step 1 - Create a new Ionic/Cordova Project, using the Ionic Command below:
 
   ionic start ionic blank --v2
