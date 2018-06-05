@@ -70,8 +70,11 @@ Carefully open the package.json file in the both directories and carefully merge
 
 Carefully open the app.module.ts file in the both directories and carefully merge the two files into one. The resulting app.module.ts should look like below
 
-**Angular app.odule.ts file**
+**Existing Angular app.module.ts file**
 
 > ![appmodule](https://user-images.githubusercontent.com/26504978/40999461-3f1294e8-690b-11e8-81d6-8fa1d48f8ab1.png)
 
+**After Migration app.module.ts file in Ionic**
+
+> ![appmodule](https://user-images.githubusercontent.com/26504978/40999461-3f1294e8-690b-11e8-81d6-8fa1d48f8ab1.png)
 
