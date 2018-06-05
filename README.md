@@ -20,7 +20,7 @@ This is a very simple "Hello World" project to help get you started.to simplify 
 1. Run `ng serve -o`
 
 # Now Challenge Starts
-![1_awpxaxq_upheqig-inqifw](https://user-images.githubusercontent.com/26504978/40997582-81de69ba-6905-11e8-89f6-06b8202596b0.jpeg)
+![dilema-del-prisionero](https://user-images.githubusercontent.com/26504978/40997653-ba8800d2-6905-11e8-956a-4ffa124d5ebf.jpg)![1_awpxaxq_upheqig-inqifw](https://user-images.githubusercontent.com/26504978/40997582-81de69ba-6905-11e8-89f6-06b8202596b0.jpeg)
 
 
 
