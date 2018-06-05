@@ -97,7 +97,7 @@ Move main.ts file from outside app folder to inside app folder in Ionic project
 
 ![tsconfig](https://user-images.githubusercontent.com/26504978/40999999-e2bfa6ca-690c-11e8-9507-2d2d157d29bf.png)
 
-# Now start to build ionic project
+# Now start to build ionic project from git clone directly from AngulartoIonic Git repo
 
 ## Getting started
 
