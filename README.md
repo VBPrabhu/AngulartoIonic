@@ -146,6 +146,7 @@ npm run sme              | Build and run source map explorer, really cool :)
 npm run release          | Create a new release using standard-version
 npm run docker           | Build the docker image and run the container
 
+# Android to Ionic Automation in Progress
 
 # Successfully Migrated from Angular project to Ionic project
 
