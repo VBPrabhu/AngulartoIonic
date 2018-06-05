@@ -76,5 +76,6 @@ Carefully open the app.module.ts file in the both directories and carefully merg
 
 **After Migration app.module.ts file in Ionic**
 
-> ![appmodule](https://user-images.githubusercontent.com/26504978/40999461-3f1294e8-690b-11e8-81d6-8fa1d48f8ab1.png)
+> ![ionicapp](https://user-images.githubusercontent.com/26504978/40999575-8e671de8-690b-11e8-88c9-733633e67d5c.png)
+
 
