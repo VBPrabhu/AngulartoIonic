@@ -65,5 +65,6 @@ How to change the above project into ionic project. Small configuration required
 
 Carefully open the package.json file in the both directories and carefully merge the two files into one. The resulting package.json should look like below
 
+![packagejson copy](https://user-images.githubusercontent.com/26504978/40999260-9eafaacc-690a-11e8-94ba-88fa36484f13.png)
 
 
